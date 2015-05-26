@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# Sublimetext stuff
+*.sublime*
